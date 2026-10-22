@@ -1,35 +1,32 @@
 <!--
-  个人主页仓库：推送到 GitHub 时，仓库必须与你自己的用户名同名（<username>/<username>），
-  并将本文件中所有的 "Guoyin-Wen" 替换为你的 GitHub 用户名（共涉及：徽章行 1 处、统计卡片 2 处）。
-  img/header.svg 中的名字文字如需修改，编辑该 SVG 中的 <text> 节点即可。
+  Profile repo: push to GitHub as <username>/<username> and replace
+  every 'Guoyin-Wen' with your GitHub username if it differs.
+  Edit the <text> node in img/header.svg to change the title.
 -->
-<img width=100% src="./img/header.svg" alt="头部图" />
+<img width=100% src="./img/header.svg" alt="Header" />
 <p align="center">
-    <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge?page_id=Guoyin-Wen.readme" />
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Guoyin-Wen.readme" />
     <a href="https://guoyin.win/" target="_blank" style="display: inline-block;">
-        <img alt="个人主页" src="https://img.shields.io/badge/文国印-guoyin.win-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
+        <img alt="Homepage" src="https://img.shields.io/badge/Homepage-guoyin.win-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp;
     <a href="https://github.com/Guoyin-Wen" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Guoyin--Win-lightblue?logo=github" />
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Guoyin--Win-lightblue?logo=github" />
     </a>&nbsp;
     <a href="mailto:i@guoyin.win" target="_blank" style="display: inline-block;">
-        <img alt="邮箱" src="https://img.shields.io/badge/邮箱-i@guoyin.win-EA4335?logo=gmail&logoColor=FFF" />
+        <img alt="Email" src="https://img.shields.io/badge/Email-i@guoyin.win-EA4335?logo=gmail&logoColor=FFF" />
     </a>&nbsp;
     <a href="https://guoyin.win/" target="_blank" style="display: inline-block;">
-        <img alt="博客" src="https://img.shields.io/badge/Blog-技术博客-1F6FEB?logo=RSS&logoColor=FFF" />
+        <img alt="Blog" src="https://img.shields.io/badge/Blog-Articles-1F6FEB?logo=RSS&logoColor=FFF" />
     </a>&nbsp;
 </p>
 
 ---
-- 👋 Hi, I'm Guoyin Wen（文国印）
-- 🔭 I'm currently working on Java 后端架构 & LLM Agent 开发 @ 智能制造行业
-- 💼 7 年开发经验｜Java 开发工程师 / 后端架构师 / Agent 开发工程师 / 全栈开发工程师
-- 🌏 坐标上海｜Homelab + 云端「混合云」实践者，在 LLM Agent 加持下完成各类计算机领域工作
+- 👋 Hi, I'm Guoyin Wen
+- 🔭 I'm currently working on Java Backend Architecture & LLM Agent Development
 - 📫 How to reach me: [i@guoyin.win](mailto:i@guoyin.win)
-- 💬 Ask me about: Spring Cloud、Camunda 7、Groovy 动态引擎、RAG、Agent 运行时、LLM 网关
 ---
 
-### 后端技术栈
+### Backend Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Java-F78C40?logo=OpenJDK&logoColor=000" alt="Java" style="display: inline-block;" />&nbsp;
@@ -61,7 +58,7 @@
   <img src="https://img.shields.io/badge/-Maven-C71A36?logo=Apache-Maven&logoColor=FFF" alt="Maven" style="display: inline-block;" />&nbsp;
 </p>
 
-### AI 与 Agent
+### AI & Agent
 
 <p>
   <img src="https://img.shields.io/badge/-Claude-D97757?logo=Anthropic&logoColor=FFF" alt="Claude" style="display: inline-block;" />&nbsp;
@@ -79,7 +76,7 @@
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=FFF" alt="scikit-learn" style="display: inline-block;" />&nbsp;
 </p>
 
-### 数据库与中间件
+### Databases & Middleware
 
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=FFF" alt="MySQL" style="display: inline-block;" />&nbsp;
@@ -95,7 +92,7 @@
   <img src="https://img.shields.io/badge/-Tomcat-F8DC75?logo=Apache-Tomcat&logoColor=000" alt="Tomcat" style="display: inline-block;" />&nbsp;
 </p>
 
-### 前端技术栈
+### Frontend Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Vue3-4FC08D?logo=Vue.js&logoColor=FFF" alt="Vue3" style="display: inline-block;" />&nbsp;
@@ -109,7 +106,7 @@
   <img src="https://img.shields.io/badge/-Cloudflare%20Workers-F38020?logo=Cloudflare&logoColor=FFF" alt="Cloudflare Workers" style="display: inline-block;" />&nbsp;
 </p>
 
-### DevOps 与云平台
+### DevOps & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=000" alt="Linux" style="display: inline-block;" />&nbsp;
@@ -127,7 +124,7 @@
   <img src="https://img.shields.io/badge/-Neon-00E599?logo=neon&logoColor=FFF" alt="Neon" style="display: inline-block;" />&nbsp;
 </p>
 
-### 安全与逆向
+### Security & Reverse Engineering
 
 <p>
   <img src="https://img.shields.io/badge/-IDA%20Pro-2C3E50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwhISEpKiocHBwtLS0/Pz8oKCgpKSkgICAlJSUhISEhISEmJiY2NjYrKioeHh4aGhowMDDk5ef29/js7vH///+wsrMLCwtmZmfOz9Cam5u7vL7X2dv/XiwGAAAAC3RSTlMAuhQy2P5NsHCN797EbOQAAAFnSURBVDiNdZPbtoMgDESxFpUDCKICgv//nSeA3LraeXIxO5MYBaGg10Tm4d1qJtMLFRHMMU/aQCuIgchjv2bc2tGPABtSyBzqcQUqQYfgLxz3fmnBKF0AyPHdCBn4Q2iC4zZh7RLoBB1KNQArt2sHLIi0DSi+vKwzgkgGttBAuGPXsg2gM5pLOcP++AbE2tDe3gcAnrLGFwMkbMFfuVbB35WzgnVA3I2wt1IqAv7S3GSAPgBzh0oBAVC7kzLaJYFZrRJxRuA8bEREBmCqNGIGztNjCX4A4KXC7hjX0KACpzbiAbYHMfaC8we4sKGiJCQxQV1KOJU1MkwgZAsAYvSh/K3cZqL9CTBmvLq8w0bQBEgJq057TTL3rm20nwAACGsBH5tXXxI0tQDd8gaTLeWCxsZO66/loBGhNw3fJXsf/hv+6ol+SPQBcDF+uWEC1BFCfPURGofiVVsMY73ecP8XEEkKj0u+/f/FhTQ3wvFVvgAAAABJRU5ErkJggg==" alt="IDA Pro" style="display: inline-block;" />&nbsp;
@@ -137,7 +134,7 @@
   <img src="https://img.shields.io/badge/-Security-DC143C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJsOCAzLjJWMTFjMCA1LjItMy40IDkuNi04IDExLTQuNi0xLjQtOC01LjgtOC0xMVY1LjJ6Ii8+PHBhdGggZD0iTTguMyAxMi4ybDIuNiAyLjYgNS01LjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0RDMTQzQyIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==" alt="Security" style="display: inline-block;" />&nbsp;
 </p>
 
-### 开发工具
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/-Intellij%20IDEA-000?logo=Intellij-IDEA&logoColor=FFF" alt="Intellij IDEA" style="display: inline-block;" />&nbsp;
@@ -153,4 +150,4 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Guoyin-Wen&show_icons=true&theme=transparent&hide_border=true" width="60%" />
 </div>
-<img width=100% src="./img/footer.svg" alt="尾部图"/>
+<img width=100% src="./img/footer.svg" alt="Footer"/>
