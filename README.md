@@ -12,8 +12,8 @@
     <a href="https://github.com/Guoyin-Wen" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Guoyin--Win-lightblue?logo=github" />
     </a>&nbsp;
-    <a href="mailto:seek@guoyin.win" target="_blank" style="display: inline-block;">
-        <img alt="邮箱" src="https://img.shields.io/badge/邮箱-seek@guoyin.win-EA4335?logo=gmail&logoColor=FFF" />
+    <a href="mailto:i@guoyin.win" target="_blank" style="display: inline-block;">
+        <img alt="邮箱" src="https://img.shields.io/badge/邮箱-i@guoyin.win-EA4335?logo=gmail&logoColor=FFF" />
     </a>&nbsp;
     <a href="https://guoyin.win/" target="_blank" style="display: inline-block;">
         <img alt="博客" src="https://img.shields.io/badge/Blog-技术博客-1F6FEB?logo=RSS&logoColor=FFF" />
@@ -25,7 +25,7 @@
 - 🔭 I'm currently working on Java 后端架构 & LLM Agent 开发 @ 智能制造行业
 - 💼 7 年开发经验｜Java 开发工程师 / 后端架构师 / Agent 开发工程师 / 全栈开发工程师
 - 🌏 坐标上海｜Homelab + 云端「混合云」实践者，在 LLM Agent 加持下完成各类计算机领域工作
-- 📫 How to reach me: [seek@guoyin.win](mailto:seek@guoyin.win)
+- 📫 How to reach me: [i@guoyin.win](mailto:i@guoyin.win)
 - 💬 Ask me about: Spring Cloud、Camunda 7、Groovy 动态引擎、RAG、Agent 运行时、LLM 网关
 ---
 
