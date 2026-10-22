@@ -22,7 +22,7 @@
 
 ---
 - 👋 Hi, I'm Guoyin Wen
-- 🔭 I'm currently working on Java Backend Architecture & LLM Agent Development
+- 🔭 I'm currently working on Java后端架构和开发
 - 📫 How to reach me: [i@guoyin.win](mailto:i@guoyin.win)
 ---
 
