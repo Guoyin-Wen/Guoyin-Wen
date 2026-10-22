@@ -15,14 +15,14 @@
     <a href="mailto:i@guoyin.win" target="_blank" style="display: inline-block;">
         <img alt="Email" src="https://img.shields.io/badge/Email-i@guoyin.win-EA4335?logo=gmail&logoColor=FFF" />
     </a>&nbsp;
-    <a href="https://guoyin.win/" target="_blank" style="display: inline-block;">
+    <a href="https://blog.guoyin.win/" target="_blank" style="display: inline-block;">
         <img alt="Blog" src="https://img.shields.io/badge/Blog-Articles-1F6FEB?logo=RSS&logoColor=FFF" />
     </a>&nbsp;
 </p>
 
 ---
 - 👋 Hi, I'm Guoyin Wen
-- 🔭 I'm currently working on Java后端架构和开发
+- 🔭 I'm currently working on Java Backend Architecture & Development
 - 📫 How to reach me: [i@guoyin.win](mailto:i@guoyin.win)
 ---
 
